@@ -1,0 +1,6 @@
+C:\Work\Claim\Week 2 Exercises\AreaOfShape\bin\Debug\AreaOfShape.exe.config
+C:\Work\Claim\Week 2 Exercises\AreaOfShape\bin\Debug\AreaOfShape.exe
+C:\Work\Claim\Week 2 Exercises\AreaOfShape\bin\Debug\AreaOfShape.pdb
+C:\Work\Claim\Week 2 Exercises\AreaOfShape\obj\Debug\AreaOfShape.exe
+C:\Work\Claim\Week 2 Exercises\AreaOfShape\obj\Debug\AreaOfShape.pdb
+C:\Work\Claim\Week 2 Exercises\AreaOfShape\obj\Debug\AreaOfShape.csprojResolveAssemblyReference.cache

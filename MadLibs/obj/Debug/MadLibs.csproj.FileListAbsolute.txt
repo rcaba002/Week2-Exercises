@@ -1,0 +1,6 @@
+C:\Work\Claim\Week 2 Exercises\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Work\Claim\Week 2 Exercises\MadLibs\bin\Debug\MadLibs.exe
+C:\Work\Claim\Week 2 Exercises\MadLibs\bin\Debug\MadLibs.pdb
+C:\Work\Claim\Week 2 Exercises\MadLibs\obj\Debug\MadLibs.exe
+C:\Work\Claim\Week 2 Exercises\MadLibs\obj\Debug\MadLibs.pdb
+C:\Work\Claim\Week 2 Exercises\MadLibs\obj\Debug\MadLibs.csprojResolveAssemblyReference.cache
